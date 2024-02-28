@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 250,
+  "experience": 1.0,
+  "group": "iron_ingot",
+  "ingredient": {
+    "item": "cai:raw_basic_pcb_board"
+  },
+  "result": "cai:basic_pcb_board"
+}

@@ -1,0 +1,14 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {"item": "minecraft:quartz"},
+    {"fluid": "minecraft:water", "nbt": {}, "amount": 1000}
+  ],
+  "results": [
+    {
+      "item": "cai:sillycone",
+      "count": 2
+    }
+  ],
+  "heatRequirement": "heated"
+}

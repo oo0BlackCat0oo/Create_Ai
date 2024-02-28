@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "cai:sillycone"
+    }
+  },
+  "result": {
+    "item": "cai:sillycone_block"
+  }
+}

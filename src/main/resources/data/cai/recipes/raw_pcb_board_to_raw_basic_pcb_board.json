@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+    "item": "cai:raw_pcb_board"
+    },
+    {
+      "item": "minecraft:green_dye"
+    }
+  ],
+  "result": {"item": "cai:raw_basic_pcb_board"}
+}

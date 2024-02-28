@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "cai:item/incomplete_basic_ai_board"
+  }
+}

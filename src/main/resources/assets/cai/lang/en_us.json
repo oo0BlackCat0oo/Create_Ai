@@ -1,0 +1,16 @@
+{
+  "creativetab.create_ai": "Create AI",
+
+  "block.cai.sillycone_block": "Silicone block",
+  "block.cai.overworld_quartz_ore": "Quartz ore",
+
+  "item.cai.raw_pcb_board": "Raw PCB Board",
+  "item.cai.raw_basic_pcb_board": "Raw basic PCB Board",
+  "item.cai.incomplete_basic_ai_board": "Incomplete basic AI Board",
+  "item.cai.processor_chip": "Processor chip",
+  "item.cai.memory_chip": "Memory chip",
+  "item.cai.capacitor": "Capacitor",
+  "item.cai.basic_pcb_board": "Basic PCB Board",
+  "item.cai.basic_ai_board": "Basic AI Board",
+  "item.cai.sillycone": "Silicone"
+}

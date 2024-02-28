@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "cai:sillycone_block"
+    }
+  ],
+  "result": {
+    "item": "cai:sillycone",
+    "count": 9
+  }
+}

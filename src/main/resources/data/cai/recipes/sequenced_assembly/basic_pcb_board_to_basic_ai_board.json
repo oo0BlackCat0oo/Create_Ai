@@ -1,0 +1,83 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "cai:basic_pcb_board"
+  },
+  "results": [
+    {"chance": 50.0,
+      "item": "cai:basic_ai_board"},
+    {"chance": 50.0,
+      "item": "cai:basic_pcb_board"}
+
+  ],
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "cai:incomplete_basic_ai_board"
+        },
+        {
+          "tag": "forge:plates/gold"
+        }
+      ],
+      "results": [
+        {
+          "item": "cai:incomplete_basic_ai_board"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "cai:incomplete_basic_ai_board"
+        },
+        {
+          "item": "cai:capacitor"
+        }
+      ],
+      "results": [
+        {
+          "item": "cai:incomplete_basic_ai_board"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "cai:incomplete_basic_ai_board"
+        },
+        {
+          "item": "cai:memory_chip"
+        }
+      ],
+      "results": [
+        {
+          "item": "cai:incomplete1_basic_ai_board"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "cai:incomplete_basic_ai_board"
+        },
+        {
+          "item": "cai:processor_chip"
+        }
+      ],
+      "results": [
+        {
+          "item": "cai:incomplete_basic_ai_board"
+        }
+      ]
+    }
+
+  ],
+  "transitionalItem": {
+    "item": "cai:incomplete_basic_ai_board"
+  }
+}
